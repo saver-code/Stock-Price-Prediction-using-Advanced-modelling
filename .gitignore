@@ -6,8 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# File
+file/
+
+# raw_data
+raw_data/
+
 # data 
 data/
+
+# docs
+docs/
 
 # environment variables
 .env
