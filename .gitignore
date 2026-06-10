@@ -21,6 +21,9 @@ docs/
 # environment variables
 .env
 
+# notebook
+Ingestion/
+raw_file/
 
 # Distribution / packaging
 .Python
