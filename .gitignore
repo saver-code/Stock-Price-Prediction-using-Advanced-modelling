@@ -24,6 +24,7 @@ docs/
 # notebook
 Ingestion/
 raw_file/
+eda_before/
 
 # Distribution / packaging
 .Python
